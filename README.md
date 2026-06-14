@@ -18,3 +18,14 @@ Lang: Korean
 
 
 https://drive.google.com/file/d/1NHvGn4Ydr_nZKkAWPOp_aobzHjUo7aD0/view?usp=sharing
+
+
+모델 실행 방법
+
+```!pip uninstall -y transformers tokenizers huggingface_hub accelerate safetensors \
+   !pip install --no-cache-dir \
+   transformers==4.57.3 \
+   tokenizers==0.22.2 \
+   huggingface_hub==0.36.0 \
+   accelerate \
+   safetensors```
