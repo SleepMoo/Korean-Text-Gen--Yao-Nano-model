@@ -52,3 +52,7 @@ https://drive.google.com/file/d/1NHvGn4Ydr_nZKkAWPOp_aobzHjUo7aD0/view?usp=shari
 
 을 입력하면 기억이 초기화 됩니다. (아주아주 작은 모델이라 지속적인 초기화는 필수...)
 
+
+**모델 학습제작,학습 = Not AI (only junhyun)
+
+배포 실행 명령어.py = GPT 5.5**
