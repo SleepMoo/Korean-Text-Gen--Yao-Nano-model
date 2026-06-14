@@ -3,6 +3,8 @@
 Lang: Korean
 
 극초소형 모델인 야오 모델입니다.
+2026년 6월 인공지능 기초 발표에 사용된 모델입니다.
+
 
 파일크기가 400MB 정도 되기 때문에, 구글드라이브로 가중치를 공유한다는점 양해 바랍니다.
 
@@ -14,12 +16,25 @@ Lang: Korean
 
 그래서 그나마 대중적인 깃허브(Github) 에 업로드 합니다.
 
+
+
+
+
+
+
 가중치 링크(구글드라이브) 는 아래와 같습니다.
 
 *가중치 파일과 실행 파이썬 파일이 같이 들어있습니다!*
 
 
 https://drive.google.com/file/d/1NHvGn4Ydr_nZKkAWPOp_aobzHjUo7aD0/view?usp=sharing
+
+**링크가 안들어가 진다면?**
+```
+https://drive.google.com/file/d/1NHvGn4Ydr_nZKkAWPOp_aobzHjUo7aD0/view?usp=sharing
+```
+
+를 복붙하기
 
 
 모델 실행 방법
