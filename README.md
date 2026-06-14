@@ -40,4 +40,14 @@ https://drive.google.com/file/d/1NHvGn4Ydr_nZKkAWPOp_aobzHjUo7aD0/view?usp=shari
 
 **모델 구동시 만약 응답이 알아볼수 없을정도로 깨져보인다면, 토크나이저 라이브러리 문제.**
 
-!python YaoNano_NORMAL/examples/use_yaonano_model.py
+그리고 비주얼 스튜디오 코드 에 들어가서
+파일열기 후 다운로드 받은 파일 압축 해제 후 열기!
+
+그리고 파워셀 이 뜨면 아래 복붙하기!
+
+
+```
+!python use_yaonano_model.py
+```
+
+
