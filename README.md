@@ -43,11 +43,12 @@ https://drive.google.com/file/d/1NHvGn4Ydr_nZKkAWPOp_aobzHjUo7aD0/view?usp=shari
 그리고 비주얼 스튜디오 코드 에 들어가서
 파일열기 후 다운로드 받은 파일 압축 해제 후 열기!
 
-그리고 파워셀 이 뜨면 아래 복붙하기!
+파이썬 파일을 찾은뒤 실행하고 채팅 하면 끝!
 
-
+기억 리셋방법은 런타임에
 ```
-!python use_yaonano_model.py
+/reset
 ```
 
+을 입력하면 기억이 초기화 됩니다. (아주아주 작은 모델이라 지속적인 초기화는 필수...)
 
