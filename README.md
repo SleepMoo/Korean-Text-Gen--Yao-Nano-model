@@ -25,13 +25,7 @@ https://drive.google.com/file/d/1NHvGn4Ydr_nZKkAWPOp_aobzHjUo7aD0/view?usp=shari
 모델 실행 방법
 
 ```
-pip uninstall -y transformers tokenizers huggingface_hub accelerate safetensors
-   pip install --no-cache-dir \
-   transformers==4.57.3 \
-   tokenizers==0.22.2 \
-   huggingface_hub==0.36.0 \
-   accelerate \
-   safetensors
+pip install --no-cache-dir transformers==4.57.3 tokenizers==0.22.2 huggingface_hub==0.36.0 accelerate safetensors
 ```
 
 으로 먼저 라이브러리를 다운받아 줍니다.
