@@ -24,6 +24,8 @@ https://drive.google.com/file/d/1NHvGn4Ydr_nZKkAWPOp_aobzHjUo7aD0/view?usp=shari
 
 모델 실행 방법
 
+#파이썬버전은 3.10 입니다!
+
 ```
 pip install --no-cache-dir transformers==4.57.3 tokenizers==0.22.2 huggingface_hub==0.36.0 accelerate safetensors
 ```
