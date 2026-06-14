@@ -16,6 +16,8 @@ Lang: Korean
 
 가중치 링크(구글드라이브) 는 아래와 같습니다.
 
+*가중치 파일과 실행 파이썬 파일이 같이 들어있습니다!*
+
 
 https://drive.google.com/file/d/1NHvGn4Ydr_nZKkAWPOp_aobzHjUo7aD0/view?usp=sharing
 
@@ -31,3 +33,11 @@ https://drive.google.com/file/d/1NHvGn4Ydr_nZKkAWPOp_aobzHjUo7aD0/view?usp=shari
    accelerate \
    safetensors
 ```
+
+으로 먼저 라이브러리를 다운받아 줍니다.
+
+버전은 위와 같습니다.(조금이라도 달라지면 오류 발생 위험있음 주의바람.)
+
+**모델 구동시 만약 응답이 알아볼수 없을정도로 깨져보인다면, 토크나이저 라이브러리 문제.**
+
+!python YaoNano_NORMAL/examples/use_yaonano_model.py
